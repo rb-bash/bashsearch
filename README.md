@@ -8,7 +8,7 @@ Zuerst musst du das Repository klonen. Führe dazu den folgenden Befehl in deine
 
       
 
-git clone https://github.com/rb-bash/bashsearch.git
+`git clone https://github.com/rb-bash/bashsearch.git` 
 
     
 
@@ -18,7 +18,7 @@ Nach dem Klonen des Repositories wechsle in das bashsearch-Verzeichnis:
 
       
 
-cd bashsearch
+`cd bashsearch`
 
     
 
@@ -28,7 +28,7 @@ Um das Installationsskript ausführbar zu machen, führe den folgenden Befehl au
 
       
 
-chmod +x sinstall.sh
+`chmod +x sinstall.sh`
 
     
 
@@ -38,11 +38,11 @@ Nun kannst du das Skript sinstall.sh ausführen:
 
       
 
-./sinstall.sh
+`./sinstall.sh`
 
-und danach s ausführen    
+und danach `s` ausführen    
 
-Das Skript wird dich auffordern, den Speicherort für deinen DATA-Ordner festzulegen. Es wird empfohlen, den DATA-Ordner im Home-Verzeichnis zu erstellen, um die erforderlichen Berechtigungen sicherzustellen.
+Das Skript wird dich auffordern, den Speicherort für deinen DATA-Ordner festzulegen. Es wird empfohlen, den DATA-Ordner im Home-Verzeichnis zu erstellen, um die erforderlichen Berechtigungen sicherzustellen. zB `/home/user/DATA`  (also DATA immer dazuschreiben)
 
 5. Den DATA-Ordner an einen anderen Ort verschieben
 
@@ -50,7 +50,7 @@ Wenn du den DATA-Ordner an einem anderen Speicherort erstellen möchtest, musst 
 
       
 
-rm ~/.bashsearch_config
+`rm ~/.bashsearch_config`
 
     
 
@@ -58,7 +58,7 @@ Führe danach das Skript sinstall.sh erneut aus:
 
       
 
-./sinstall.sh
+`./sinstall.sh`
 
     
 
@@ -68,7 +68,7 @@ Das Skript s wird nun im PATH verfügbar sein. Du kannst es von überall ausfüh
 
       
 
-s
+`s`
 
     
 
