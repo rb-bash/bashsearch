@@ -1,7 +1,7 @@
 bashsearch
 
 bashsearch ist ein praktisches Tool, das es dir ermöglicht, in einem bestimmten Ordner, dem DATA-Ordner, nach Anleitungen oder Befehlen in .txt-Dateien zu suchen. So findest du schnell die Informationen, die du benötigst.
-Installation
+
 1. Repository klonen
 
 Zuerst musst du das Repository klonen. Führe dazu den folgenden Befehl in deinem Terminal aus:
