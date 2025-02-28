@@ -75,6 +75,3 @@ Das Skript s wird nun im PATH verfügbar sein. Du kannst es von überall ausfüh
 7. Daten hinzufügen
 
 Du kannst nun deine Anleitungen und Befehle in .txt-Dateien im DATA-Ordner speichern. Das Tool sucht durch diese Dateien und hilft dir dabei, die gewünschten Informationen schnell zu finden.
-Nutzung
-
-Nach der Installation und der Erstellung des DATA-Ordners kannst du das Skript jederzeit aufrufen, um nach den benötigten Informationen zu suchen. Folge den Anweisungen im Terminal, um die Suchbegriffe einzugeben.
