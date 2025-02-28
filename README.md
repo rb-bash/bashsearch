@@ -40,9 +40,10 @@ Nun kannst du das Skript sinstall.sh ausführen:
 
 ./sinstall.sh
 
-    
+und danach s ausführen    
 
 Das Skript wird dich auffordern, den Speicherort für deinen DATA-Ordner festzulegen. Es wird empfohlen, den DATA-Ordner im Home-Verzeichnis zu erstellen, um die erforderlichen Berechtigungen sicherzustellen.
+
 5. Den DATA-Ordner an einen anderen Ort verschieben
 
 Wenn du den DATA-Ordner an einem anderen Speicherort erstellen möchtest, musst du die Konfiguration löschen. Gehe dafür in dein Home-Verzeichnis und lösche die entsprechende Bash-Konfigurationsdatei:
